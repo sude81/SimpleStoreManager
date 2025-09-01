@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\store_management\bin\Debug\net9.0\store_management.exe
+C:\Users\User\Desktop\store_management\bin\Debug\net9.0\store_management.deps.json
+C:\Users\User\Desktop\store_management\bin\Debug\net9.0\store_management.runtimeconfig.json
+C:\Users\User\Desktop\store_management\bin\Debug\net9.0\store_management.dll
+C:\Users\User\Desktop\store_management\bin\Debug\net9.0\store_management.pdb
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\store_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\store_management.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\store_management.AssemblyInfo.cs
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\store_management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\store_management.dll
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\refint\store_management.dll
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\store_management.pdb
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\store_management.genruntimeconfig.cache
+C:\Users\User\Desktop\store_management\obj\Debug\net9.0\ref\store_management.dll
